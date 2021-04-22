@@ -1,2 +1,3 @@
 # TTCycleScrollViewController
 基于UIPageViewController封装的无线循环滚动控件，支持自定义界面
+可应用于广告banner页循环，可用于多个相似页面滚动联动
